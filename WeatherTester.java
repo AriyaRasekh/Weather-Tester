@@ -1,8 +1,11 @@
+**/
+	author: Ariya Rasekh <Ariya.Rasekh@gmail.com>
+*/
 public class WeatherTester
 {
 	public static void main ( String [] args)
 		{
-		//two object for testing
+		//instantiating two object for testing
 		Weather Obj1 = new Weather();
 		Weather Obj2 = new Weather( 13, 3);
 
